@@ -1,0 +1,17 @@
+C:\Users\saeed\Downloads\AmazingCo\AmazingCo.Interfaces\bin\Debug\netstandard1.0\AmazingCo.Interfaces.deps.json
+C:\Users\saeed\Downloads\AmazingCo\AmazingCo.Interfaces\bin\Debug\netstandard1.0\AmazingCo.Interfaces.dll
+C:\Users\saeed\Downloads\AmazingCo\AmazingCo.Interfaces\bin\Debug\netstandard1.0\AmazingCo.Interfaces.pdb
+C:\Users\saeed\Downloads\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.AssemblyInfo.cs
+C:\Users\saeed\Downloads\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.dll
+C:\Users\saeed\Downloads\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.pdb
+C:\Users\saeed\Downloads\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.csprojAssemblyReference.cache
+C:\Users\saeed\Downloads\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\saeed\Downloads\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.AssemblyInfoInputs.cache
+D:\Project\Tree\AmazingCo\AmazingCo.Interfaces\bin\Debug\netstandard1.0\AmazingCo.Interfaces.deps.json
+D:\Project\Tree\AmazingCo\AmazingCo.Interfaces\bin\Debug\netstandard1.0\AmazingCo.Interfaces.dll
+D:\Project\Tree\AmazingCo\AmazingCo.Interfaces\bin\Debug\netstandard1.0\AmazingCo.Interfaces.pdb
+D:\Project\Tree\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.csproj.CoreCompileInputs.cache
+D:\Project\Tree\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.AssemblyInfoInputs.cache
+D:\Project\Tree\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.AssemblyInfo.cs
+D:\Project\Tree\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.dll
+D:\Project\Tree\AmazingCo\AmazingCo.Interfaces\obj\Debug\netstandard1.0\AmazingCo.Interfaces.pdb
