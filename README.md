@@ -42,5 +42,3 @@ Each node should have the following info:
 4) the height of the node. In the above example,height(root) = 0 and height(a) == 1.
 
  
-
-Our boss is evil and we can only have docker and docker-compose on our machines. So your server needs to be run using them.
