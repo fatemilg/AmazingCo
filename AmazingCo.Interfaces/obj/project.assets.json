@@ -1912,7 +1912,8 @@
             "version": "[1.6.1, )",
             "autoReferenced": true
           }
-        }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

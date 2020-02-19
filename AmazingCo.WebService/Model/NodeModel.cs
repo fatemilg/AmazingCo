@@ -9,5 +9,6 @@ namespace AmazingCo.Model
         public string Title { get; set; }
         public IEnumerable<int> Children { get; set; }
         public int Level { get; set; }
+  
     }
 }

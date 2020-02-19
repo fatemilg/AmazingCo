@@ -16,7 +16,6 @@ D:\Project\Tree\AmazingCo\AmazingCo.Core\bin\Debug\netstandard2.0\AmazingCo.Core
 D:\Project\Tree\AmazingCo\AmazingCo.Core\bin\Debug\netstandard2.0\AmazingCo.Interfaces.dll
 D:\Project\Tree\AmazingCo\AmazingCo.Core\bin\Debug\netstandard2.0\AmazingCo.Interfaces.pdb
 D:\Project\Tree\AmazingCo\AmazingCo.Core\obj\Debug\netstandard2.0\AmazingCo.Core.csprojAssemblyReference.cache
-D:\Project\Tree\AmazingCo\AmazingCo.Core\obj\Debug\netstandard2.0\AmazingCo.Core.csproj.CoreCompileInputs.cache
 D:\Project\Tree\AmazingCo\AmazingCo.Core\obj\Debug\netstandard2.0\AmazingCo.Core.AssemblyInfoInputs.cache
 D:\Project\Tree\AmazingCo\AmazingCo.Core\obj\Debug\netstandard2.0\AmazingCo.Core.AssemblyInfo.cs
 D:\Project\Tree\AmazingCo\AmazingCo.Core\obj\Debug\netstandard2.0\AmazingCo.Core.csproj.CopyComplete

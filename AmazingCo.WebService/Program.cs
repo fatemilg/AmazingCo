@@ -7,7 +7,16 @@ namespace AmazingCo
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
+            try
+            {
+                CreateWebHostBuilder(args).Build().Run();
+            }
+            catch (System.Exception)
+            {
+
+                throw;
+            }
+         
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
